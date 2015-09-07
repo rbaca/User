@@ -1,0 +1,22 @@
+# Ignore this file to prevent from Github's token to be made public
+/Gist.sublime-settings
+# Ignore useless caches
+Package\ Control.cache/
+Package\ Control.last-run
+
+
+###########################################
+OTHER USEFUL IGNORES
+###########################################
+
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

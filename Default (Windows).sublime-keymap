@@ -1,0 +1,29 @@
+[
+	// SPLIT SCREEN 60/40 (alt+shift+right)
+	{
+		"keys": ["alt+shift+right"],
+		"command": "set_layout",
+		"args":
+		{
+			"cols": [0.0, 0.6, 1.0],
+			"rows": [0.0, 1.0],
+			"cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+		}
+	},
+
+	// SPLIT SCREEN 40/60 (alt+shift+left)
+	{
+		"keys": ["alt+shift+left"],
+		"command": "set_layout",
+		"args":
+		{
+			"cols": [0.0, 0.4, 1.0],
+			"rows": [0.0, 1.0],
+			"cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+		}
+	},
+
+	// SFTP Package: brose servers
+	{ "keys": ["alt+b","alt+b"], "command": "sftp_browse_server" }
+
+]

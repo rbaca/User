@@ -1,0 +1,42 @@
+<snippet>
+	<content><![CDATA[
+/* \$Header: \$ */
+
+/*
+ * ${1:name.c}
+ *
+ * Descripton:
+ *
+ * ${2:Use this section to describe this file’s contents.}
+ */
+
+IDENT("\$Id: \$");
+COPYRIGHT("Copyright ${3:2015 Company} Inc.");
+
+/* System headers */
+
+/* Local headers */
+
+/* Macros */
+
+/* Structures and unions */
+
+/* External variables */
+
+/* Global variables */
+
+/* Local variables */
+
+/* External prototypes */
+
+/* Global prototypes */
+
+/* Local prototypes */
+
+/* \$Log: \$ */
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>source-header</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c</scope>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+${1:#include <stdlib.h>}
+${2:#include <stdio.h>}
+${3:#include <string.h>}
+${4:#include <ctype.h>}
+${5:#include <math.h>}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>includes</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c</scope>
+</snippet>

@@ -1,0 +1,16 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Calculate",
+		"DocBlockr",
+		"Gist",
+		"Markdown Preview",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements"
+	]
+}
